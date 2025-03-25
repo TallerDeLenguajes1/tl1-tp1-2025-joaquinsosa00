@@ -1,1 +1,7 @@
-prueba de repositorio clonado
+
+#include <stdio.h>
+
+int main() {
+    printf("Hola Mundo\n");
+    return 0;
+}
